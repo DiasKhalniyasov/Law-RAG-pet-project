@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# rag_demo
-=======
 # Law Assistant
 
 The Law Assistant is conversational AI based on "КоАП РК" and can answer on any question regarding administrative law.
