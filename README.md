@@ -2,10 +2,6 @@
 
 The Law Assistant is conversational AI based on "КоАП РК" and can answer on any question regarding administrative law.
 Current retrieval uses tf-idf + cos siilarity for simplicity of the project. Also considers full-text match.
-For monitoring Grafana is used. The app is answering questions with ability to get feedback:
-<p align="center">
-  <img src="images/dash.jpg">
-</p>
 
 ## Dataset
 
